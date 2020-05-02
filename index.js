@@ -6,10 +6,11 @@ const good = 'ggg';
 
 const name = 'ham';
 
-const b = 10;
-console.log(a, b);
-console.log(good, name);
+console.log(a, good, name);
 
 let data;
 data = 10;
 console.log(data);
+
+const test = '11111';
+console.log(test);
