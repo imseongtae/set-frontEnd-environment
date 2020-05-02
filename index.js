@@ -14,3 +14,4 @@ console.log(data);
 
 const test = '11111';
 console.log(test);
+console.log(test);
